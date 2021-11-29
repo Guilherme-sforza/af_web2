@@ -3,13 +3,13 @@
 
 # Screenshot Vuetify screens:
 ## Painel
-![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/NovoPainel.png)
+![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Panel.png)
 
 ## Images
 ![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Images.png)
 
 ## Sobre
-![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Sobre.png)
+![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/About.png)
 
 ## Cards
 ![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Cards.png)
