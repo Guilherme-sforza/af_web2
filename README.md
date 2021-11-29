@@ -1,15 +1,15 @@
-# Guilherme Sntini Sforza 
+# Guilherme Santini Sforza 
 # 190605
 
 # Screenshot Vuetify screens:
 ## Painel
-![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Panel.png)
+![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Panel.PNG)
 
 ## Images
 ![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Images.png)
 
 ## Sobre
-![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/About.png)
+![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/About.PNG)
 
 ## Cards
 ![alt text](https://github.com/Guilherme-sforza/af_web2/blob/master/Cards.png)
